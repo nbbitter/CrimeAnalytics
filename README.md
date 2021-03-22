@@ -1,3 +1,3 @@
 # CrimeAnalytics
 
-SLC spatial monthly time series and spatial visualization of all crime in the City. Also includes car accidents.
+SLC spatial visualizations of all crime in the city. Also includes car accidents.
